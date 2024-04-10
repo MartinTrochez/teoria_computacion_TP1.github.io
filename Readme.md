@@ -44,3 +44,7 @@ Un automata finito no determinante generalizado, o AFNDG, de la siguiente manera
 > - $\sigma : (Q - q_{inicial}) \times (Q - q_{aceptacion}) \rightarrow R$ es la función de transición en la cual $R$ es la colección de todas las expresiones regulares del alfabeto $\Sigma$,
 > - $q_{inicial}$ es el estado inicial,
 > - $q_{aceptacion}$ es el estado de aceptación.
+
+
+## Link a pagina
+[Trabajo Práctico N1](https://martintrochez.github.io/teoria_computacion_TP1.github.io/)

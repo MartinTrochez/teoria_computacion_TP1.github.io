@@ -62,10 +62,18 @@ h1{
   
 }
 
-
+.textoIntroduccion{
+  margin-right: 20%;
+  margin-left: 20%;
+}
 
 .input-group{
 width: 50%;
+}
+
+.org_fotos{
+  display: flex;
+    align-items: center;
 }
 
 .automatas{
